@@ -8,8 +8,7 @@ O Sistema de Gerenciamento de Tarefas tem como objetivo ajudar usuários a organ
 suas atividades diárias, permitindo registrar tarefas, definir prioridades e acompanhar o
 progresso das atividades.
 
-Este sistema pode ser utilizado por estudantes, profissionais e equipes de trabalho que
-desejam melhorar sua organização.
+Este sistema pode ser utilizado por estudantes, profissionais e equipes de trabalho que desejam melhorar sua organização.
 
 **Principais Funcionalidades**
 
